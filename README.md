@@ -6,6 +6,6 @@ A collection list of AIGC Detection related datasets, tools, papers, and code. I
 
 If you want to contribute to this list, welcome to send me a pull request or contact me :)
 
-If you are also interested in Deepfakes Detection, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection).
+If you are also interested in Deepfakes Detection, please refer to: [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection).
 
 ## Contents
