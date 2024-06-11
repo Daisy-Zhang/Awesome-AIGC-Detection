@@ -12,8 +12,6 @@ If you are also interested in Deepfakes Detection, please refer to: [Awesome Dee
 
 * LaRE<sup>2</sup>: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection, CVPR 2024: [Paper](https://arxiv.org/abs/2403.17465)
 
-* Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images, NeurIPS 2024: [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/505df5ea30f630661074145149274af0-Paper-Datasets_and_Benchmarks.pdf) [Code](https://github.com/Inf-imagine/Sentry)
-
 * How to Trace Latent Generative Model Generated Images without Artificial Watermark? ICML 2024: [Paper](https://arxiv.org/abs/2405.13360)
 
 * DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images, ICML 2024: [Paper](https://icml.cc/virtual/2024/poster/33086)
@@ -35,6 +33,8 @@ If you are also interested in Deepfakes Detection, please refer to: [Awesome Dee
 * WildFake: A Large-scale Challenging Dataset for AI-Generated Images Detection, arXiv 2024: [Paper](https://arxiv.org/abs/2402.11843)
 
 * DIRE for Diffusion-Generated Image Detection, ICCV 2023: [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DIRE_for_Diffusion-Generated_Image_Detection_ICCV_2023_paper.pdf) [Code](https://github.com/ZhendongWang6/DIRE)
+
+* Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images, NeurIPS 2023: [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/505df5ea30f630661074145149274af0-Paper-Datasets_and_Benchmarks.pdf) [Code](https://github.com/Inf-imagine/Sentry)
 
 * Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection, CVPR 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf)
 
