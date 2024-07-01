@@ -46,6 +46,6 @@ If you are also interested in Deepfakes Detection, please refer to: [Awesome Dee
 
 * GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image, arXiv 2023: [Paper](https://arxiv.org/abs/2307.06272) [Code](https://github.com/GenImage-Dataset/GenImage)
 
-* PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection, arXiv 2023: Paper[https://arxiv.org/abs/2311.12397]
+* PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection, arXiv 2023: [Paper](https://arxiv.org/abs/2311.12397)
 
 * CNN-generated images are surprisingly easy to spot...for now, CVPR 2020: [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf) [Code](https://github.com/peterwang512/CNNDetection)
