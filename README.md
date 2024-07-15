@@ -1,6 +1,6 @@
 # Awesome-AIGC-Detection![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-![from internet](assets/cover.jpg)
+![from internet](assets/cover_update.jpg)
 
 The rapid development of AIGC(AI-Generated Content) has significantly influenced our daily life and how to detect them become a crucial challenge for AI safety now. This is a collection list of AIGC Detection related research that aims to facilitate the development of related fields.
 
