@@ -44,7 +44,7 @@ If you are also interested in Deepfakes Detection, please refer to: [Awesome Dee
 
 * Exposing the Fake: Effective Diffusion-Generated Images Detection, arXiv 2023: [Paper](https://arxiv.org/abs/2307.06272)
 
-* GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image, arXiv 2023: [Paper](https://arxiv.org/abs/2307.06272) [Code](https://github.com/GenImage-Dataset/GenImage)
+* GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image, arXiv 2023: [Paper](https://arxiv.org/abs/2306.08571) [Code](https://github.com/GenImage-Dataset/GenImage)
 
 * PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection, arXiv 2023: [Paper](https://arxiv.org/abs/2311.12397)
 
