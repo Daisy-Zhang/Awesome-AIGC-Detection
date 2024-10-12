@@ -10,6 +10,8 @@ If you are also interested in Deepfakes Detection, please refer to: [Awesome Dee
 
 ## Research Papers
 
+* Zero-Shot Detection of AI-Generated Images, ECCV 2024: [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02665.pdf) [Code](https://github.com/grip-unina/ZED/)
+
 * LaRE<sup>2</sup>: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection, CVPR 2024: [Paper](https://arxiv.org/abs/2403.17465)
 
 * How to Trace Latent Generative Model Generated Images without Artificial Watermark? ICML 2024: [Paper](https://arxiv.org/abs/2405.13360)
